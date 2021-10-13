@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EMIcalcs</string>
+    <string name="emi_calculator">EMI Calculator!</string>
+    <string name="time_mo">Time (mo)</string>
+    <string name="amount">Amount</string>
+    <string name="interest">Interest</string>
+    <string name="_20000">20000</string>
+    <string name="_12">12</string>
+    <string name="_10">10</string>
+    <string name="percent">%</string>
+    <string name="dollar">$</string>
+    <string name="calculate">Calculate!</string>
+</resources>
