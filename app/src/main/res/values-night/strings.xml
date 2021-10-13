@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="time_mo">Time (mo)</string>
+    <string name="amount">Amount</string>
+    <string name="interest">Interest</string>
+    <string name="_20000">20000</string>
+    <string name="_12">12</string>
+    <string name="dollar">$</string>
+    <string name="calculate">Calculate!</string>
+</resources>
