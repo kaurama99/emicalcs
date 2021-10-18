@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 double total, upper, lower, pTotal, Ptotal;
-                if (!pAmount.getText().toString().isEmpty() && !iRate.getText().toString().isEmpty() && period.getText().toString().isEmpty()){
+                if (!pAmount.getText().toString().isEmpty() && !iRate.getText().toString().isEmpty() && !period.getText().toString().isEmpty()){
                     pVal = Integer.parseInt(pAmount.getText().toString()); //the amount of money the user inputs
                     rate = (Double.parseDouble(iRate.getText().toString()) / 100) / 12; //assuming monthly interest rate
                     m = Integer.parseInt(period.getText().toString());  //the period of time in months
