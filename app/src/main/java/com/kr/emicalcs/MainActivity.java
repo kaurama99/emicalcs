@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                     Tcalcs.setText(String.valueOf("Total Interest Payable: $" + Ptotal));
                 }
                 else {
-                    Toast.makeText(MainActivity.this, "Fields cannot be blank", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Fields cannot be blank, please fill out the fields", Toast.LENGTH_SHORT).show();
                 }
             }
         });
